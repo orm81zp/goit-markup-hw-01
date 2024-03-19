@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/orm81zp/goit-markup-hw-01/issues"
   },
-  "homepage": "https://orm81zp.github.io/goit-markup-hw-01/",
+  "homepage": "https://orm81zp.github.io/goit-markup-hw-01",
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
